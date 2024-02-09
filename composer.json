@@ -1,9 +1,9 @@
 {
-    "name": "davedevelopment/phpmig",
+    "name": "wavenet-be/phpmig",
     "type": "library",
     "description": "Simple migrations system for php",
     "keywords": ["migrations", "database migrations"],
-    "homepage": "http://github.com/davedevelopment/phpmig",
+    "homepage": "https://github.com/wavenet-be/phpmig",
     "license": "MIT",
     "authors": [{
         "name": "Dave Marshall",
