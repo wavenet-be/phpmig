@@ -7,3 +7,7 @@ composer.lock
 .project
 .settings
 .idea
+
+
+phpmig.php
+migrations/
